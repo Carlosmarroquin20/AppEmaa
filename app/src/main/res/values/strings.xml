@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Ema-App</string>
+    <string name="button">ENVIAR</string>
+    <string name="mensaje">Ingrese el nombre:</string>
+    <string name="imprimir">Mensaje</string>
+</resources>
